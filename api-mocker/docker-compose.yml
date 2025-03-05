@@ -15,10 +15,10 @@ services: # 定义每个服务的容器
       - 80:80
       - 443:443
       - 8018:8018
-    # volumes: # 挂载文件夹，配置我们可以写在宿主机，然后挂载进去
-    #   - ./nginx/conf.d:/etc/nginx/conf.d
-    #   - ./logs/nginx:/var/log/nginx
-    #   - ./nginx/html:/usr/share/nginx/html
+    volumes: # 挂载文件夹，配置我们可以写在宿主机，然后挂载进去
+      - ./nginx/conf.d:/etc/nginx/conf.d
+      - ./logs/nginx:/var/log/nginx
+      - ./nginx/html:/usr/share/nginx/html
     # restart: always # 服务挂了的时候始终自动重启
     depends_on: # 定义容器启动顺序 附带容器间的依赖关系
       - nodejs
