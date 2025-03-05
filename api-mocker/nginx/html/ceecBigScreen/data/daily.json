@@ -1,0 +1,741 @@
+{
+  "masterDataIntegrationGroup": {
+    "list": [
+      {
+        "name": "单位1",
+        "push": 9690,
+        "request": 9690
+      },
+      {
+        "name": "单位2",
+        "push": 7050,
+        "request": 7050
+      },
+      {
+        "name": "单位3",
+        "push": 6008,
+        "request": 6008
+      },
+      {
+        "name": "单位4",
+        "push": 9004,
+        "request": 9004
+      },
+      {
+        "name": "单位5",
+        "push": 7654,
+        "request": 7654
+      },
+      {
+        "name": "单位6",
+        "push": 7654,
+        "request": 7654
+      },
+      {
+        "name": "单位7",
+        "push": 7654,
+        "request": 7654
+      },
+      {
+        "name": "单位8",
+        "push": 7654,
+        "request": 7654
+      }
+    ]
+  },
+  "masterDataPush": {
+    "total": 6004444,
+    "list": [
+      {
+        "name": "组织",
+        "value": 1003
+      },
+      {
+        "name": "人员",
+        "value": 45006
+      },
+      {
+        "name": "项目",
+        "value": 78900
+      },
+      {
+        "name": "合同",
+        "value": 320001
+      },
+      {
+        "name": "客商",
+        "value": 65004
+      }
+    ]
+  },
+  "masterDataRequestCategory": {
+    "list": [
+      {
+        "name": "组织",
+        "value": 1003
+      },
+      {
+        "name": "人员",
+        "value": 4006
+      },
+      {
+        "name": "项目",
+        "value": 7900
+      },
+      {
+        "name": "合同",
+        "value": 3001
+      },
+      {
+        "name": "客商",
+        "value": 604
+      }
+    ]
+  },
+  "masterDataPushCategory": {
+    "list": [
+      {
+        "name": "组织",
+        "value": 1003
+      },
+      {
+        "name": "人员",
+        "value": 4006
+      },
+      {
+        "name": "项目",
+        "value": 7900
+      },
+      {
+        "name": "合同",
+        "value": 3001
+      },
+      {
+        "name": "客商",
+        "value": 604
+      }
+    ]
+  },
+  "bizFinBalance": {
+    "total": 8569,
+    "income": 1234000056,
+    "expend": 215000311
+  },
+  "bizFinBillPush": {
+    "total": 6054,
+    "list": [
+      {
+        "name": "组织",
+        "value": 1003
+      },
+      {
+        "name": "人员",
+        "value": 45006
+      },
+      {
+        "name": "项目",
+        "value": 78900
+      },
+      {
+        "name": "合同",
+        "value": 320001
+      },
+      {
+        "name": "客商",
+        "value": 65004
+      }
+    ]
+  },
+  "bizFinBillPushRank": {
+    "list": [
+      {
+        "name": "单据1",
+        "value": 400
+      },
+      {
+        "name": "单据2",
+        "value": 300
+      },
+      {
+        "name": "单据3",
+        "value": 200
+      },
+      {
+        "name": "单据4",
+        "value": 100
+      },
+      {
+        "name": "单据5",
+        "value": 50
+      },
+      {
+        "name": "单据6",
+        "value": 40
+      },
+      {
+        "name": "单据7",
+        "value": 30
+      },
+      {
+        "name": "单据8",
+        "value": 20
+      },
+      {
+        "name": "单据9",
+        "value": 10
+      },
+      {
+        "name": "单据10",
+        "value": 4
+      }
+    ]
+  },
+  "bizFinBillRequestInterface": {
+    "total": 6054,
+    "list": [
+      {
+        "name": "组织",
+        "value": 1003
+      },
+      {
+        "name": "人员",
+        "value": 4506
+      },
+      {
+        "name": "项目",
+        "value": 7890
+      },
+      {
+        "name": "合同",
+        "value": 3001
+      },
+      {
+        "name": "客商",
+        "value": 6004
+      }
+    ]
+  },
+  "bizFinBillPushInterface": {
+    "total": 6054,
+    "list": [
+      {
+        "name": "组织",
+        "value": 1003
+      },
+      {
+        "name": "人员",
+        "value": 4506
+      },
+      {
+        "name": "项目",
+        "value": 7800
+      },
+      {
+        "name": "合同",
+        "value": 3001
+      },
+      {
+        "name": "客商",
+        "value": 6504
+      }
+    ]
+  },
+  
+  "masterDataPushTotal": {
+    "total": 4054,
+    "project": 2630,
+    "contract": 3638
+  },
+
+  "masterDataPushRelativeRatio": {
+    "list": [
+      {
+        "name": "组织",
+        "today": 1003,
+        "yestoday": 903
+      },
+      {
+        "name": "人员",
+        "today": 4506,
+        "yestoday": 5506
+      },
+      {
+        "name": "项目",
+        "today": 7800,
+        "yestoday": 6800
+      },
+      {
+        "name": "合同",
+        "today": 3001,
+        "yestoday": 2001
+      },
+      {
+        "name": "客商",
+        "today": 6504,
+        "yestoday": 8504
+      }
+    ]
+  },
+  "masterDataIntegration": {
+    "list": [
+      {
+        "name": "组织",
+        "total": 303,
+        "incY": 103,
+        "incT": 100,
+        "incH": 93
+      },
+      {
+        "name": "人员",
+        "total": 1506,
+        "incY": 406,
+        "incT": 450,
+        "incH": 506
+      },
+      {
+        "name": "项目",
+        "total": 1800,
+        "incY": 780,
+        "incT": 800,
+        "incH": 800
+      },
+      {
+        "name": "合同",
+        "total": 1001,
+        "incY": 301,
+        "incT": 301,
+        "incH": 201
+      },
+      {
+        "name": "客商",
+        "total": 1504,
+        "incY": 504,
+        "incT": 654,
+        "incH": 804
+      }
+    ]
+  },
+  "bizFinBillPushRelativeRatio": {
+    "list": [
+      {
+        "time": "09:00",
+        "today": 1003,
+        "yestoday": 903
+      },
+      {
+        "time": "10:00",
+        "today": 4506,
+        "yestoday": 5506
+      },
+      {
+        "time": "11:00",
+        "today": 7800,
+        "yestoday": 6800
+      },
+      {
+        "time": "12:00",
+        "today": 3001,
+        "yestoday": 2001
+      },
+      {
+        "time": "13:00",
+        "today": 6504,
+        "yestoday": 8504
+      },
+      {
+        "time": "14:00",
+        "today": 6504,
+        "yestoday": 8504
+      },
+      {
+        "time": "15:00",
+        "today": 6504,
+        "yestoday": 8504
+      }
+    ]
+  },
+  "bizFinBillIntegration": {
+    "list": [
+      {
+        "name": "结算单",
+        "total": 313,
+        "incT": 100,
+        "incH": 93
+      },
+      {
+        "name": "支付申请单",
+        "total": 106,
+        "incT": 450,
+        "incH": 506
+      },
+      {
+        "name": "资金计划",
+        "total": 180,
+        "incT": 700,
+        "incH": 600
+      },
+      {
+        "name": "业主计量单",
+        "total": 101,
+        "incT": 301,
+        "incH": 201
+      },
+      {
+        "name": "物资入库单",
+        "total": 104,
+        "incT": 654,
+        "incH": 704
+      },
+      {
+        "name": "收入确认单",
+        "total": 154,
+        "incT": 654,
+        "incH": 504
+      },
+      {
+        "name": "其他",
+        "total": 150,
+        "incT": 654,
+        "incH": 804
+      }
+    ]
+  },
+  "bizFinBillIntegrationGroup": {
+    "list": [
+      {
+        "name": "单位1",
+        "push": 9690,
+        "request": 9690
+      },
+      {
+        "name": "单位2",
+        "push": 7050,
+        "request": 7050
+      },
+      {
+        "name": "单位3",
+        "push": 6008,
+        "request": 6008
+      },
+      {
+        "name": "单位4",
+        "push": 9004,
+        "request": 9004
+      },
+      {
+        "name": "单位5",
+        "push": 7654,
+        "request": 7654
+      },
+      {
+        "name": "单位6",
+        "push": 7654,
+        "request": 7654
+      },
+      {
+        "name": "单位7",
+        "push": 7654,
+        "request": 7654
+      },
+      {
+        "name": "单位8",
+        "push": 7654,
+        "request": 7654
+      }
+    ]
+  },
+  "bizFinPushInterface": {
+    "total": 80008,
+    "inc": 2000,
+    "list": [
+      {
+        "name": "组织",
+        "value": 1003
+      },
+      {
+        "name": "人员",
+        "value": 4506
+      },
+      {
+        "name": "项目",
+        "value": 7800
+      },
+      {
+        "name": "合同",
+        "value": 3001
+      },
+      {
+        "name": "客商",
+        "value": 6504
+      }
+    ]
+  },
+  "bizFinRequestInterface": {
+    "total": 60008,
+    "inc": -3000,
+    "list": [
+      {
+        "name": "组织",
+        "value": 1003
+      },
+      {
+        "name": "人员",
+        "value": 4506
+      },
+      {
+        "name": "项目",
+        "value": 7800
+      },
+      {
+        "name": "合同",
+        "value": 3001
+      },
+      {
+        "name": "客商",
+        "value": 6504
+      }
+    ]
+  },
+  "masterDataPushList": {
+    "list": [
+      {
+        "code": "D202404080",
+        "companyName": "广东院0",
+        "content": "XXXX项目内容XXXX项目内容XXXX项目内容XXXX项目内容",
+        "date": "2023-5-9 20:00",
+        "status": "成功"
+      },
+      {
+        "code": "D202404081",
+        "companyName": "广东院1",
+        "content": "XXXX项目内容XXXX项目内容XXXX项目内容XXXX项目内容",
+        "date": "2023-5-9 20:01",
+        "status": "成功"
+      },
+      {
+        "code": "D202404082",
+        "companyName": "广东院2",
+        "content": "XXXX项目内容XXXX项目内容XXXX项目内容XXXX项目内容",
+        "date": "2023-5-9 20:02",
+        "status": "成功"
+      },
+      {
+        "code": "D202404083",
+        "companyName": "广东院3",
+        "content": "XXXX项目内容XXXX项目内容XXXX项目内容XXXX项目内容",
+        "date": "2023-5-9 20:03",
+        "status": "成功"
+      },
+      {
+        "code": "D202404084",
+        "companyName": "广东院4",
+        "content": "XXXX项目内容XXXX项目内容XXXX项目内容XXXX项目内容",
+        "date": "2023-5-9 20:04",
+        "status": "成功"
+      },
+      {
+        "code": "D202404085",
+        "companyName": "广东院5",
+        "content": "XXXX项目内容XXXX项目内容XXXX项目内容XXXX项目内容",
+        "date": "2023-5-9 20:05",
+        "status": "成功"
+      },
+      {
+        "code": "D202404086",
+        "companyName": "广东院6",
+        "content": "XXXX项目内容XXXX项目内容XXXX项目内容XXXX项目内容",
+        "date": "2023-5-9 20:06",
+        "status": "成功"
+      },
+      {
+        "code": "D202404087",
+        "companyName": "广东院7",
+        "content": "XXXX项目内容XXXX项目内容XXXX项目内容XXXX项目内容",
+        "date": "2023-5-9 20:07",
+        "status": "成功"
+      },
+      {
+        "code": "D202404088",
+        "companyName": "广东院8",
+        "content": "XXXX项目内容XXXX项目内容XXXX项目内容XXXX项目内容",
+        "date": "2023-5-9 20:08",
+        "status": "成功"
+      },
+      {
+        "code": "D202404089",
+        "companyName": "广东院9",
+        "content": "XXXX项目内容XXXX项目内容XXXX项目内容XXXX项目内容",
+        "date": "2023-5-9 20:09",
+        "status": "成功"
+      }
+    ]
+  },
+  "interfaceAddUpdateList": {
+    "list": [
+      {
+        "code": "D202404080",
+        "name": "接口0",
+        "category": "主数据",
+        "module": "系统模块10",
+        "date": "2023-12-29",
+        "remark": "XXXX项目内容XXXX项目内容XXXX项目内容XXXX项目内容"
+      },
+      {
+        "code": "D202404081",
+        "name": "接口1",
+        "category": "主数据",
+        "module": "系统模块11",
+        "date": "2023-12-29",
+        "remark": "XXXX项目内容XXXX项目内容XXXX项目内容XXXX项目内容"
+      },
+      {
+        "code": "D202404082",
+        "name": "接口2",
+        "category": "主数据",
+        "module": "系统模块12",
+        "date": "2023-12-29",
+        "remark": "XXXX项目内容XXXX项目内容XXXX项目内容XXXX项目内容"
+      },
+      {
+        "code": "D202404083",
+        "name": "接口3",
+        "category": "主数据",
+        "module": "系统模块13",
+        "date": "2023-12-29",
+        "remark": "XXXX项目内容XXXX项目内容XXXX项目内容XXXX项目内容"
+      },
+      {
+        "code": "D202404084",
+        "name": "接口4",
+        "category": "主数据",
+        "module": "系统模块14",
+        "date": "2023-12-29",
+        "remark": "XXXX项目内容XXXX项目内容XXXX项目内容XXXX项目内容"
+      },
+      {
+        "code": "D202404085",
+        "name": "接口5",
+        "category": "主数据",
+        "module": "系统模块15",
+        "date": "2023-12-29",
+        "remark": "XXXX项目内容XXXX项目内容XXXX项目内容XXXX项目内容"
+      },
+      {
+        "code": "D202404086",
+        "name": "接口6",
+        "category": "主数据",
+        "module": "系统模块16",
+        "date": "2023-12-29",
+        "remark": "XXXX项目内容XXXX项目内容XXXX项目内容XXXX项目内容"
+      },
+      {
+        "code": "D202404087",
+        "name": "接口7",
+        "category": "主数据",
+        "module": "系统模块17",
+        "date": "2023-12-29",
+        "remark": "XXXX项目内容XXXX项目内容XXXX项目内容XXXX项目内容"
+      },
+      {
+        "code": "D202404088",
+        "name": "接口8",
+        "category": "主数据",
+        "module": "系统模块18",
+        "date": "2023-12-29",
+        "remark": "XXXX项目内容XXXX项目内容XXXX项目内容XXXX项目内容"
+      },
+      {
+        "code": "D202404089",
+        "name": "接口9",
+        "category": "主数据",
+        "module": "系统模块19",
+        "date": "2023-12-29",
+        "remark": "XXXX项目内容XXXX项目内容XXXX项目内容XXXX项目内容"
+      }
+    ]
+  },
+  "finBillPushList": {
+    "list": [
+      {
+        "code": "D202404080",
+        "companyName": "单位0",
+        "name": "主数据系统模块单据XXXXX",
+        "money": 98750,
+        "date": "2023-12-29 20:10",
+        "status": "成功"
+      },
+      {
+        "code": "D202404081",
+        "companyName": "单位1",
+        "name": "主数据系统模块单据XXXXX",
+        "money": 98751,
+        "date": "2023-12-29 20:11",
+        "status": "成功"
+      },
+      {
+        "code": "D202404082",
+        "companyName": "单位2",
+        "name": "主数据系统模块单据XXXXX",
+        "money": 98752,
+        "date": "2023-12-29 20:12",
+        "status": "成功"
+      },
+      {
+        "code": "D202404083",
+        "companyName": "单位3",
+        "name": "主数据系统模块单据XXXXX",
+        "money": 98753,
+        "date": "2023-12-29 20:13",
+        "status": "成功"
+      },
+      {
+        "code": "D202404084",
+        "companyName": "单位4",
+        "name": "主数据系统模块单据XXXXX",
+        "money": 98754,
+        "date": "2023-12-29 20:14",
+        "status": "成功"
+      },
+      {
+        "code": "D202404085",
+        "companyName": "单位5",
+        "name": "主数据系统模块单据XXXXX",
+        "money": 98755,
+        "date": "2023-12-29 20:15",
+        "status": "成功"
+      },
+      {
+        "code": "D202404086",
+        "companyName": "单位6",
+        "name": "主数据系统模块单据XXXXX",
+        "money": 98756,
+        "date": "2023-12-29 20:16",
+        "status": "成功"
+      },
+      {
+        "code": "D202404087",
+        "companyName": "单位7",
+        "name": "主数据系统模块单据XXXXX",
+        "money": 98757,
+        "date": "2023-12-29 20:17",
+        "status": "成功"
+      },
+      {
+        "code": "D202404088",
+        "companyName": "单位8",
+        "name": "主数据系统模块单据XXXXX",
+        "money": 98758,
+        "date": "2023-12-29 20:18",
+        "status": "成功"
+      },
+      {
+        "code": "D202404089",
+        "companyName": "单位9",
+        "name": "主数据系统模块单据XXXXX",
+        "money": 98759,
+        "date": "2023-12-29 20:19",
+        "status": "成功"
+      }
+    ]
+  }
+}

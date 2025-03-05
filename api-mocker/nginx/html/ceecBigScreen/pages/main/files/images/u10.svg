@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="8px" height="148px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="4" y1="0" x2="4" y2="148" id="LinearGradient196">
+      <stop id="Stop197" stop-color="#2eedfe" offset="0" />
+      <stop id="Stop198" stop-color="#2fecff" offset="1" />
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="4" y1="0" x2="4" y2="148" id="LinearGradient199">
+      <stop id="Stop200" stop-color="#2eedfe" offset="0" />
+      <stop id="Stop201" stop-color="#2fecff" offset="1" />
+    </linearGradient>
+    <mask fill="white" id="clip202">
+      <path d="M 7.25 141.25  L 7.25 0.75  L 0.5 7.5  L 0.5 147.75  L 7.25 141.25  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -1872 -815 )">
+    <path d="M 7.25 141.25  L 7.25 0.75  L 0.5 7.5  L 0.5 147.75  L 7.25 141.25  Z " fill-rule="nonzero" fill="url(#LinearGradient196)" stroke="none" transform="matrix(1 0 0 1 1872 815 )" />
+    <path d="M 7.25 141.25  L 7.25 0.75  L 0.5 7.5  L 0.5 147.75  L 7.25 141.25  Z " stroke-width="2" stroke="url(#LinearGradient199)" fill="none" transform="matrix(1 0 0 1 1872 815 )" mask="url(#clip202)" />
+  </g>
+</svg>

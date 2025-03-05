@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="215px" height="39px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="107.5" y1="0" x2="107.5" y2="39" id="LinearGradient14995">
+      <stop id="Stop14996" stop-color="#030e1e" offset="0" />
+      <stop id="Stop14997" stop-color="#030e1e" offset="0.15" />
+      <stop id="Stop14998" stop-color="#ff6600" offset="1" />
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="107.5" y1="0" x2="107.5" y2="39" id="LinearGradient14999">
+      <stop id="Stop15000" stop-color="#030e1e" offset="0" />
+      <stop id="Stop15001" stop-color="#030e1e" offset="0.15" />
+      <stop id="Stop15002" stop-color="#ffcc00" offset="1" />
+    </linearGradient>
+    <mask fill="white" id="clip15003">
+      <path d="M 42.06666666666661 0.8571428571426623  L 214.11428571428576 0.8571428571426623  L 206.79999999999995 8.857142857142662  L 200.39999999999998 8.857142857142662  L 170.6857142857143 38.79999999999973  L 0.9000000000000952 38.79999999999973  L 8 31.59999999999991  L 12.099999999999914 31.59999999999991  L 42.06666666666661 0.8571428571426623  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -1238 -50 )">
+    <path d="M 42.06666666666661 0.8571428571426623  L 214.11428571428576 0.8571428571426623  L 206.79999999999995 8.857142857142662  L 200.39999999999998 8.857142857142662  L 170.6857142857143 38.79999999999973  L 0.9000000000000952 38.79999999999973  L 8 31.59999999999991  L 12.099999999999914 31.59999999999991  L 42.06666666666661 0.8571428571426623  Z " fill-rule="nonzero" fill="url(#LinearGradient14995)" stroke="none" transform="matrix(1 0 0 1 1238 50 )" />
+    <path d="M 42.06666666666661 0.8571428571426623  L 214.11428571428576 0.8571428571426623  L 206.79999999999995 8.857142857142662  L 200.39999999999998 8.857142857142662  L 170.6857142857143 38.79999999999973  L 0.9000000000000952 38.79999999999973  L 8 31.59999999999991  L 12.099999999999914 31.59999999999991  L 42.06666666666661 0.8571428571426623  Z " stroke-width="2" stroke="url(#LinearGradient14999)" fill="none" transform="matrix(1 0 0 1 1238 50 )" mask="url(#clip15003)" />
+  </g>
+</svg>

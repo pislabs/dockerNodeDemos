@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="18px" height="10px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="9" y1="0" x2="9" y2="10" id="LinearGradient15021">
+      <stop id="Stop15022" stop-color="#041022" offset="0" />
+      <stop id="Stop15023" stop-color="#041022" offset="0.23" />
+      <stop id="Stop15024" stop-color="#2172d3" offset="1" />
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="9" y1="0" x2="9" y2="10" id="LinearGradient15025">
+      <stop id="Stop15026" stop-color="#041022" offset="0" />
+      <stop id="Stop15027" stop-color="#00ccff" offset="1" />
+    </linearGradient>
+    <mask fill="white" id="clip15028">
+      <path d="M 8.537862386879738 0.17119754512350482  L 17.049999999999955 0.17119754512350482  L 9.049999999999956 9.449999999999818  L 0.2499999999999991 9.449999999999818  L 8.537862386879738 0.17119754512350482  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -1445 -56 )">
+    <path d="M 8.537862386879738 0.17119754512350482  L 17.049999999999955 0.17119754512350482  L 9.049999999999956 9.449999999999818  L 0.2499999999999991 9.449999999999818  L 8.537862386879738 0.17119754512350482  Z " fill-rule="nonzero" fill="url(#LinearGradient15021)" stroke="none" transform="matrix(1 0 0 1 1445 56 )" />
+    <path d="M 8.537862386879738 0.17119754512350482  L 17.049999999999955 0.17119754512350482  L 9.049999999999956 9.449999999999818  L 0.2499999999999991 9.449999999999818  L 8.537862386879738 0.17119754512350482  Z " stroke-width="2" stroke="url(#LinearGradient15025)" fill="none" transform="matrix(1 0 0 1 1445 56 )" mask="url(#clip15028)" />
+  </g>
+</svg>

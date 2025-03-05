@@ -1,0 +1,93 @@
+2025/03/05 09:27:27 [notice] 1#1: using the "epoll" event method
+2025/03/05 09:27:27 [notice] 1#1: nginx/1.27.4
+2025/03/05 09:27:27 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
+2025/03/05 09:27:27 [notice] 1#1: OS: Linux 6.12.5-linuxkit
+2025/03/05 09:27:27 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/03/05 09:27:28 [notice] 1#1: using the "epoll" event method
+2025/03/05 09:27:28 [notice] 1#1: nginx/1.27.4
+2025/03/05 09:27:28 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
+2025/03/05 09:27:28 [notice] 1#1: OS: Linux 6.12.5-linuxkit
+2025/03/05 09:27:28 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/03/05 09:27:28 [notice] 7#7: start worker processes
+2025/03/05 09:27:28 [notice] 7#7: start worker process 8
+2025/03/05 09:27:28 [notice] 7#7: start worker process 9
+2025/03/05 09:27:28 [notice] 1#1: using the "epoll" event method
+2025/03/05 09:27:28 [notice] 1#1: nginx/1.27.4
+2025/03/05 09:27:28 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
+2025/03/05 09:27:28 [notice] 1#1: OS: Linux 6.12.5-linuxkit
+2025/03/05 09:27:28 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/03/05 09:27:28 [notice] 7#7: start worker processes
+2025/03/05 09:27:28 [notice] 7#7: start worker process 8
+2025/03/05 09:27:28 [notice] 7#7: start worker process 9
+2025/03/05 09:27:28 [notice] 7#7: start worker process 10
+2025/03/05 09:27:29 [notice] 1#1: using the "epoll" event method
+2025/03/05 09:27:29 [notice] 1#1: nginx/1.27.4
+2025/03/05 09:27:29 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
+2025/03/05 09:27:29 [notice] 1#1: OS: Linux 6.12.5-linuxkit
+2025/03/05 09:27:29 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/03/05 09:27:29 [notice] 7#7: start worker processes
+2025/03/05 09:27:29 [notice] 7#7: start worker process 8
+2025/03/05 09:27:29 [notice] 7#7: start worker process 9
+2025/03/05 09:27:29 [notice] 7#7: start worker process 10
+2025/03/05 09:27:30 [notice] 1#1: using the "epoll" event method
+2025/03/05 09:27:30 [notice] 1#1: nginx/1.27.4
+2025/03/05 09:27:30 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
+2025/03/05 09:27:30 [notice] 1#1: OS: Linux 6.12.5-linuxkit
+2025/03/05 09:27:30 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/03/05 09:27:30 [notice] 7#7: start worker processes
+2025/03/05 09:27:30 [notice] 7#7: start worker process 8
+2025/03/05 09:27:30 [notice] 7#7: start worker process 9
+2025/03/05 09:27:30 [notice] 7#7: start worker process 10
+2025/03/05 09:27:32 [notice] 1#1: using the "epoll" event method
+2025/03/05 09:27:32 [notice] 1#1: nginx/1.27.4
+2025/03/05 09:27:32 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
+2025/03/05 09:27:32 [notice] 1#1: OS: Linux 6.12.5-linuxkit
+2025/03/05 09:27:32 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/03/05 09:27:32 [notice] 7#7: start worker processes
+2025/03/05 09:27:32 [notice] 7#7: start worker process 8
+2025/03/05 09:27:32 [notice] 7#7: start worker process 9
+2025/03/05 09:27:32 [notice] 7#7: start worker process 10
+2025/03/05 09:27:36 [notice] 1#1: using the "epoll" event method
+2025/03/05 09:27:36 [notice] 1#1: nginx/1.27.4
+2025/03/05 09:27:36 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
+2025/03/05 09:27:36 [notice] 1#1: OS: Linux 6.12.5-linuxkit
+2025/03/05 09:27:36 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/03/05 09:27:36 [notice] 7#7: start worker processes
+2025/03/05 09:27:36 [notice] 7#7: start worker process 8
+2025/03/05 09:27:36 [notice] 7#7: start worker process 9
+2025/03/05 09:27:42 [notice] 1#1: using the "epoll" event method
+2025/03/05 09:27:42 [notice] 1#1: nginx/1.27.4
+2025/03/05 09:27:42 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
+2025/03/05 09:27:42 [notice] 1#1: OS: Linux 6.12.5-linuxkit
+2025/03/05 09:27:42 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/03/05 09:27:42 [notice] 7#7: start worker processes
+2025/03/05 09:27:42 [notice] 7#7: start worker process 8
+2025/03/05 09:27:42 [notice] 7#7: start worker process 9
+2025/03/05 09:27:42 [notice] 7#7: start worker process 10
+2025/03/05 09:27:55 [notice] 1#1: using the "epoll" event method
+2025/03/05 09:27:55 [notice] 1#1: nginx/1.27.4
+2025/03/05 09:27:55 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
+2025/03/05 09:27:55 [notice] 1#1: OS: Linux 6.12.5-linuxkit
+2025/03/05 09:27:55 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/03/05 09:27:55 [notice] 7#7: start worker processes
+2025/03/05 09:27:55 [notice] 7#7: start worker process 8
+2025/03/05 09:27:55 [notice] 7#7: start worker process 9
+2025/03/05 09:27:55 [notice] 7#7: start worker process 10
+2025/03/05 09:27:55 [notice] 7#7: start worker process 11
+2025/03/05 09:28:21 [notice] 1#1: using the "epoll" event method
+2025/03/05 09:28:21 [notice] 1#1: nginx/1.27.4
+2025/03/05 09:28:21 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
+2025/03/05 09:28:21 [notice] 1#1: OS: Linux 6.12.5-linuxkit
+2025/03/05 09:28:21 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/03/05 09:28:21 [notice] 7#7: start worker processes
+2025/03/05 09:28:21 [notice] 7#7: start worker process 8
+2025/03/05 09:28:21 [notice] 7#7: start worker process 9
+2025/03/05 09:28:21 [notice] 7#7: start worker process 10
+2025/03/05 09:29:13 [notice] 1#1: using the "epoll" event method
+2025/03/05 09:29:13 [notice] 1#1: nginx/1.27.4
+2025/03/05 09:29:13 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
+2025/03/05 09:29:13 [notice] 1#1: OS: Linux 6.12.5-linuxkit
+2025/03/05 09:29:13 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/03/05 09:29:13 [notice] 6#6: start worker processes
+2025/03/05 09:29:13 [notice] 6#6: start worker process 7
+2025/03/05 09:29:13 [notice] 6#6: start worker process 8

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="178px" height="82px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="162.9274193548387" y1="-10.500000000000014" x2="15.072580645161299" y2="92.50000000000001" id="LinearGradient426">
+      <stop id="Stop427" stop-color="#290c24" offset="0" />
+      <stop id="Stop428" stop-color="#290c24" offset="0.26" />
+      <stop id="Stop429" stop-color="#13071f" offset="0.68" />
+      <stop id="Stop430" stop-color="#13071f" offset="1" />
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="89" y1="0" x2="89" y2="82" id="LinearGradient431">
+      <stop id="Stop432" stop-color="#852447" offset="0" />
+      <stop id="Stop433" stop-color="#520b78" offset="1" />
+    </linearGradient>
+    <mask fill="white" id="clip434">
+      <path d="M 2 81.79999999999995  L 178 81.79999999999995  L 178 23.799999999999958  C 178 23.799999999999958  163.98548768826507 23.171063511808256  153.883870967742 16.600000000000023  C 143.70034139446773 9.975652486951848  141.82580645161283 0.2000000000000457  141.82580645161283 0.2000000000000457  L 2 0.2000000000000457  L 2 81.79999999999995  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -40 -254 )">
+    <path d="M 2 81.79999999999995  L 178 81.79999999999995  L 178 23.799999999999958  C 178 23.799999999999958  163.98548768826507 23.171063511808256  153.883870967742 16.600000000000023  C 143.70034139446773 9.975652486951848  141.82580645161283 0.2000000000000457  141.82580645161283 0.2000000000000457  L 2 0.2000000000000457  L 2 81.79999999999995  Z " fill-rule="nonzero" fill="url(#LinearGradient426)" stroke="none" transform="matrix(1 0 0 1 40 254 )" />
+    <path d="M 2 81.79999999999995  L 178 81.79999999999995  L 178 23.799999999999958  C 178 23.799999999999958  163.98548768826507 23.171063511808256  153.883870967742 16.600000000000023  C 143.70034139446773 9.975652486951848  141.82580645161283 0.2000000000000457  141.82580645161283 0.2000000000000457  L 2 0.2000000000000457  L 2 81.79999999999995  Z " stroke-width="2" stroke="url(#LinearGradient431)" fill="none" transform="matrix(1 0 0 1 40 254 )" mask="url(#clip434)" />
+  </g>
+</svg>
