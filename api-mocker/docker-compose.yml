@@ -4,7 +4,8 @@ networks: # 自定义网络
 
 volumes: # 创建自定义卷
   node_modules: # 卷名
-  mongo_data:
+  mongo_data: # mongo 数据卷
+  redis_data: # redis 数据卷
 
 services: # 定义每个服务的容器
   # nginx ------------------>
@@ -37,6 +38,7 @@ services: # 定义每个服务的容器
     restart: always
     depends_on:
       - mongo
+      - redis
     networks:
       - my-network
 
@@ -48,6 +50,18 @@ services: # 定义每个服务的容器
       - 127.0.0.1:27017:27017
     volumes:
       - mongo_data:/data/db # 这里的 mongo_data 用的是上面的自定卷
+    restart: always
+    networks:
+      - my-network
+
+  # redis ------------------>
+  redis:
+    build:
+      context: ./redis
+    ports:
+      - 127.0.0.1:6379:6379
+    volumes:
+      - redis_data:/data/redis # 这里的 redis_data 用的是上面的自定卷
     restart: always
     networks:
       - my-network
