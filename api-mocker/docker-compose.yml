@@ -4,8 +4,6 @@ networks: # 自定义网络
 
 volumes: # 创建自定义卷
   node_modules: # 卷名
-  mongo_data: # mongo 数据卷
-  redis_data: # redis 数据卷
 
 services: # 定义每个服务的容器
   # nginx ------------------>
@@ -19,8 +17,8 @@ services: # 定义每个服务的容器
       - 3000:3000
     volumes: # 挂载文件夹，配置我们可以写在宿主机，然后挂载进去
       - ./nginx/conf.d:/etc/nginx/conf.d
-      - ./logs/nginx:/var/log/nginx
       - ./nginx/html:/usr/share/nginx/html
+      - ./logs/nginx:/var/log/nginx
     depends_on: # 定义容器启动顺序 附带容器间的依赖关系
       - nodejs
     restart: always # 服务挂了的时候始终自动重启
@@ -54,7 +52,8 @@ services: # 定义每个服务的容器
     ports:
       - 127.0.0.1:27017:27017
     volumes:
-      - mongo_data:/data/db # 这里的 mongo_data 用的是上面的自定卷
+      - ./data/mongo:/data/mongodb # 这里的 mongo_data 用的是上面的自定卷
+      - ./logs/mongo:/var/log/mongodb
     restart: always
     networks:
       - my-network
@@ -66,7 +65,7 @@ services: # 定义每个服务的容器
     ports:
       - 127.0.0.1:6379:6379
     volumes:
-      - redis_data:/data/redis # 这里的 redis_data 用的是上面的自定卷
+      - ./data/redis:/data/redis # 这里的 redis_data 用的是上面的自定卷
     restart: always
     networks:
       - my-network

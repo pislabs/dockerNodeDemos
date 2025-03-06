@@ -2,13 +2,10 @@
 FROM mongo:latest
 
 # 把宿主机的 Mongo 配置文件拷贝到容器内
-COPY mongo.conf /usr/local/etc/mongo/mongo.conf
-
-# 映射外部 DB 的存储文件到容器内
-VOLUME /data/db /data/configdb
+COPY mongod.conf /etc/mongod.conf
 
 # 启动 mongo
-CMD ["mongod"]
+CMD ["mongod", "--config", "/etc/mongod.conf"]
 
 # 暴露 27017 端口到宿主机
 EXPOSE 27017
