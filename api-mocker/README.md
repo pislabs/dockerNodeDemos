@@ -15,7 +15,11 @@ docker exec -it <name> bash
 # 进入容器(方法2)
 docker compose exec <name> bash
 
+# 停止所有容器
+docker compose down
 
+# 删除所有相关本地镜像
+docker rmi $(docker images --filter "reference=api-*" -q)
 ```
 
 ## 流量监控
