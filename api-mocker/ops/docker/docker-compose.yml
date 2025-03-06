@@ -1,3 +1,5 @@
+name: api-mocker
+
 networks: # 自定义网络
   my-network: # 网络名字
     driver: bridge # 由网关驱动
