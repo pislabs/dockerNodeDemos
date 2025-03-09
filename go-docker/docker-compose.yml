@@ -1,0 +1,16 @@
+networks: # 自定义网络
+  my-network: # 网络名字
+    driver: bridge # 由网关驱动
+
+volumes: # 创建自定义卷
+  node_modules: # 卷名
+
+services: # 定义每个服务的容器
+  # hello ------------------>
+  hello:
+    build:
+      context: ./hello
+    volumes:
+      - ./codes:/opt/codes
+    networks:
+      - my-network
